@@ -1,0 +1,1 @@
+From input/UAE Company Registries and Directories.xlsx plus your own knowledge, list the sources that cover Sharjah Publishing City Free Zone and Sharjah Industrial Area 3, such as the SPC directory, SEDD licence search, Yellow Pages UAE, Google Maps, LinkedIn and Kompass. Save it to docs/sources.md.

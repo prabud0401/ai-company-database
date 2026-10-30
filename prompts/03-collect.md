@@ -1,0 +1,1 @@
+Search the web for [keyword] companies in [area]. For each one give: company name, activity, area, address, phone, manager name (only if publicly listed), and the source URL. Do not invent data; leave unknown fields blank. Output as CSV rows with header `name,activity,area,address,phone,manager,source` and append them to data/raw.csv.

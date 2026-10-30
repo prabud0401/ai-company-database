@@ -1,0 +1,1 @@
+Read input/Database Format.xlsx and input/Oil Business Activities Masterlist UAE.xlsx. List the required columns, then group the activities into 5–8 search keywords (e.g. lubricants, oilfield equipment, petroleum trading).
