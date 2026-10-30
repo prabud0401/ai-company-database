@@ -1,6 +1,6 @@
 # Plan (≈3–4 hours)
 
-1. **Set up Gemini CLI** – install Node.js 20+, run `npm install -g @google/gemini-cli`, then `gemini` in the repo folder and sign in. Put the input files in `input/`.
+1. **Set up the AI CLI** – install the Antigravity CLI (`agy`), sign in with Google, and run it in the repo folder. Put the input files in `input/`.
 2. **Understand the input files** – read the format and activities masterlist; group activities into 5–8 search keywords. Prompt: `prompts/01-understand-files.md`.
 3. **Build the source list** – save to `docs/sources.md`. Prompt: `prompts/02-sources.md`.
 4. **Collect companies** – per keyword and area, append rows to `data/raw.csv`. Spot-check 1 in 5 rows manually. Prompt: `prompts/03-collect.md`.

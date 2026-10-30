@@ -3,11 +3,11 @@
 A recruitment skills task: use AI tools to build a database of oil-related businesses located in **Sharjah Publishing City Free Zone** and **Sharjah Industrial Area 3**, including manager names and registered telephone numbers as per government licence, sourced from public registries and directories.
 
 ## Tools
-- Gemini CLI / Claude (AI-assisted search, extraction and cleaning)
+- Antigravity CLI (`agy`) / Claude (AI-assisted search, extraction and cleaning)
 - Python, pandas, openpyxl
 
 ## Method
-1. Set up Gemini CLI (Node 20+)
+1. Set up the Antigravity CLI (`agy`) and sign in with Google
 2. Understand the input files; group activities into 5–8 keywords
 3. Build the source list
 4. Collect companies per keyword and area into `data/raw.csv` (spot-check 1 in 5 rows)
