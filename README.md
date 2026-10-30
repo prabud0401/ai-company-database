@@ -11,7 +11,7 @@ A recruitment skills task: use AI tools to build a database of oil-related busin
 2. Understand the input files; group activities into 5–8 keywords
 3. Build the source list
 4. Collect companies per keyword and area into `data/raw.csv` (spot-check 1 in 5 rows)
-5. Clean, dedupe and map to the required format → `output/Atlas_Database.xlsx`
+5. Clean, dedupe and map to the required format → `output/Company_Database.xlsx`
 6. Fill managers and licence phones from SEDD/SPC lookups ("Not public" if not found)
 7. Write the method note
 8. Review, then submit

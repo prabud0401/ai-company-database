@@ -1,1 +1,1 @@
-Load data/raw.csv, remove duplicates (same name + phone), drop companies outside Sharjah Publishing City Free Zone and Sharjah Industrial Area 3, map the columns to input/Database Format.xlsx, add 'Source' and 'Verified (Y/N)' columns, and save the result as output/Atlas_Database.xlsx.
+Load data/raw.csv, remove duplicates (same name + phone), drop companies outside Sharjah Publishing City Free Zone and Sharjah Industrial Area 3, map the columns to input/Database Format.xlsx, add 'Source' and 'Verified (Y/N)' columns, and save the result as output/Company_Database.xlsx.

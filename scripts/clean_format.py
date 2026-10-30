@@ -1,10 +1,10 @@
-"""Dedupe and filter data/raw.csv, write output/Atlas_Database.xlsx."""
+"""Dedupe and filter data/raw.csv, write output/Company_Database.xlsx."""
 from pathlib import Path
 import pandas as pd
 
 ROOT = Path(__file__).resolve().parent.parent
 RAW = ROOT / "data" / "raw.csv"
-OUT = ROOT / "output" / "Atlas_Database.xlsx"
+OUT = ROOT / "output" / "Company_Database.xlsx"
 AREAS = ("publishing city", "industrial area 3")
 
 
